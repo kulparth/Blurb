@@ -4,6 +4,8 @@ A simple programmatic way to Blurb about myself!
 
 The output of the notebook reads as below
 
+---
+
 Parth's no Neo or Zuck but he codes and re-codes
 
 Parth's current focus is on ['Data - Big & Small', 'Data Science']
@@ -29,3 +31,5 @@ Parth relies on the elegance of the ['git']
 Parth looks up to heros such as ['Musk', 'Sunder', 'Satya', 'Zuck', 'Systrome', 'Linus', '...many more']
 
 Parth can continue but that won't really be a Blurb
+
+Contact: kul.parth@gmail.com
