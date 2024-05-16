@@ -8,7 +8,7 @@ Parth's no Neo or Zuck, but he codes and re-codes.
 | Category          | Skills / Technologies                                               |
 |-------------------|----------------------------------------------------------------------|
 | **Current Focus** | Data - Big & Small, Data Science                                    |
-| **Experience Across Industries** | Finance (FinTech|PropTech), Social Media, Ad-Tech, E-Commerce, SemiConductor Manufacturing |
+| **Experience Across Industries** | Finance (FinTech, PropTech), Social Media, Ad-Tech, E-Commerce, SemiConductor Manufacturing |
 | **Cloud Data Platforms** | Databricks, Snowflake |
 | **Streaming** | Confluent Kafka |
 | **Full Stack Web App** | Parth designed and built a single page web app, [DC3RN](https://www.dc3rn.com), from the ground up, containerized using Docker and hosted on the Google Cloud Platform (GCP) and shares his learnings through blogging. |
