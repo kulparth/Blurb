@@ -3,7 +3,7 @@
 
 ---
 
-Parth's no Neo or Zuck, but he codes and re-codes.
+Parth's no Neo or Zuck, but he codes, has experience managing large global data engg. teams (> 25)
 
 | Category          | Skills / Technologies                                               |
 |-------------------|----------------------------------------------------------------------|
